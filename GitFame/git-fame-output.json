@@ -1,0 +1,30 @@
+[
+  {
+    "authorName": "Ajit Pattepu",
+    "gitStats": [
+      {
+        "repository": "https://github.com/AjitPattepu2304/A-codes.git",
+        "numberOfLinesChanged": 500,
+        "numberOfCommits": 16,
+        "numberOfFiles": 17
+      }
+    ]
+  },
+  {
+    "authorName": "Abhinav Verma",
+    "gitStats": [
+      {
+        "repository": "https://github.com/AjitPattepu2304/A-codes.git",
+        "numberOfLinesChanged": 500,
+        "numberOfCommits": 16,
+        "numberOfFiles": 17
+      },
+      {
+        "repository": "https://github.com/AjitPattepu2304/A-codes.git",
+        "numberOfLinesChanged": 450,
+        "numberOfCommits": 24,
+        "numberOfFiles": 56
+      }
+    ]
+  }
+]
